@@ -37,7 +37,7 @@
    &nbsp;
    
    <h3 align="center"> 📊 Github stats</h3>
-   ___________________________________________________________________________________________________________________
+   ________________________________________________________________________________________________________________
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Strongside-87&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strongside-87&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
