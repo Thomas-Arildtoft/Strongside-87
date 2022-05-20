@@ -12,7 +12,7 @@
 
  &nbsp;
   
-<p align="center"> Currently studying to become an Software Engineer, have experience in Web development ( Frontend & Backend ), Mobile application development ( Kotlin ) aswell as generel software development ( Java ). On top of me studying i am altso an content created where i create content through my blog and sometimes through Instagram or Youtube, if you are interested in collaborate, by all means get in touch with me on one of the platform listed above. 🖐️ </p>
+<p align="center"> Currently studying to become an Software Engineer. I have experience in Web development ( Frontend & Backend ), Mobile application development ( Kotlin ) aswell as generel software development ( Java ). On top of me studying i am altso an content created where i create content through my blog and sometimes through Instagram or Youtube, if you are interested in collaborate, by all means get in touch with me on one of the platform listed above. 🖐️ </p>
 
   &nbsp;
    
