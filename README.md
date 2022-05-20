@@ -10,6 +10,12 @@
  <a href="https://github.com/Strongside-87" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="https://github.com/Strongside-87" /></a>
 </p>
 
+ &nbsp;
+  
+<p align="center"> Currently studying to become an Software Engineer, have experience in Web development ( Frontend & Backend ), Mobile application development ( Kotlin ) aswell as generel software development ( Java ). On top of me studying i am altso an content created where i create content through my blog and sometimes through Instagram or Youtube, if you are interested in collaborate, by all means get in touch with me on one of the platform listed above. 🖐️ </p>
+
+  &nbsp;
+   
 <p align="center">I am currently coding with these 👇</p>
 
 <p align="center">
@@ -31,6 +37,7 @@
    &nbsp;
    
    <h3 align="center"> 📊 Github stats</h3>
-   _______________________________________________________________________________________________________________________
-   
+   ___________________________________________________________________________________________________________________
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Strongside-87&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strongside-87&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
