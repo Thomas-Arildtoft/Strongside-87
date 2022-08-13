@@ -8,6 +8,7 @@
 <a href="https://www.instagram.com/thomas.a_dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/thomas.a_dev/" /></a>
 <a href="https://www.youtube.com/channel/ucb--2h87xbqz0att5unsc_g" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/ucb--2h87xbqz0att5unsc_g" /></a>
  <a href="https://github.com/Strongside-87" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="https://github.com/Strongside-87" /></a>
+ <img src="https://komarev.com/ghpvc/?username=Strongside-87&style=flat-square&color=blue" alt=""/>
 </p>
 
  &nbsp;
@@ -36,8 +37,7 @@
    &nbsp;
    &nbsp;
    
-   <h3 align="center"> 📊 Github stats</h3>
    ________________________________________________________________________________________________________________
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Strongside-87&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strongside-87&hide_border=true&count_private=true&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) 
+   <h3 align="left"> 📊 Github stats</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Strongside-87&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strongside-87&hide_border=true&count_private=true&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strongside-87&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
