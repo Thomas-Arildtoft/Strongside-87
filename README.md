@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/thomas.a_dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/thomas.a_dev/" /></a>
 <a href="https://www.youtube.com/channel/ucb--2h87xbqz0att5unsc_g" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/ucb--2h87xbqz0att5unsc_g" /></a>
  <a href="https://github.com/Strongside-87" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="https://github.com/Strongside-87" /></a>
- <img src="https://komarev.com/ghpvc/?username=Strongside-87&style=flat-square&color=blue" alt=""/>
+<div> <img src="https://komarev.com/ghpvc/?username=Strongside-87&style=flat-square&color=blue" alt=""/></div>
 </p>
 
  &nbsp;
