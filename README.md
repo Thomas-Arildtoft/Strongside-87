@@ -2,8 +2,8 @@
 
 ## About Me 👨🏻‍💻
 
-- 👀 Hi 👋, I'm Thomas, A passionate software engineer student from Denmark.
-- 💻 I’m a full stack developer
+- 👀 Hi 👋, I'm Thomas.
+- 💻 I’m a full stack developer.
 - 🎓 I am a software engineer student at Danish Technical University ( DTU )
 - 🌱 I’m currently learning DevOps and C#
 
