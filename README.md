@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A passionate software engineer student from Denmark.</h3>
+## About Me 👨🏻‍💻
+
+- 👀 Hi 👋, I'm Thomas, A passionate software engineer student from Denmark.
+- 💻 I’m a full stack MERN developer
+- 🎓 I am a software engineer student at Danish Technical University ( DTU )
+- 🌱 I’m currently learning DevOps and C#
+
 
 <p align="center">Connect with me:</p>
 <p align="center">
@@ -38,9 +43,10 @@
    &nbsp;
    &nbsp;
    &nbsp;
-   
-   ________________________________________________________________________________________________________________
-   <h3 align="left"> 📊 Github analytics</h3>
+ 
+## My GitHub Stats 📈
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Strongside-87&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strongside-87&layout=compactshow_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center"> 
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Strongside-87&show_icons=true&count_private=true&theme=tokyonight" alt="palanikannan's github stats" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Strongside-87&theme=tokyonight" />
+</p>
