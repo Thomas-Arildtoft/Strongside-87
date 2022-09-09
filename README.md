@@ -42,6 +42,7 @@
 3. 🎉 Merged PR [#10](https://github.com/ecellvit/FuturePreneurs-22/pull/10) in [ecellvit/FuturePreneurs-22](https://github.com/ecellvit/FuturePreneurs-22)
 4. 🎉 Merged PR [#9](https://github.com/ecellvit/FuturePreneurs-22/pull/9) in [ecellvit/FuturePreneurs-22](https://github.com/ecellvit/FuturePreneurs-22)
 5. 🗣 Commented on [#181](https://github.com/RocketChat/RC4Community/issues/181) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+
 <!--END_SECTION:activity-->
 
 ---
