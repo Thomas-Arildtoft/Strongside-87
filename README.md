@@ -1,9 +1,12 @@
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 ## About Me 👨🏻‍💻
 
 - 👀 Hi 👋, I'm Thomas, A passionate software engineer student from Denmark.
-- 💻 I’m a full stack MERN developer
+- 💻 I’m a full stack developer
 - 🎓 I am a software engineer student at Danish Technical University ( DTU )
 - 🌱 I’m currently learning DevOps and C#
+
 
 ## Tech Stack
 
@@ -21,12 +24,14 @@
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
    
+   
 ## My GitHub Stats 📈
 
 <p align="center"> 
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Strongside-87&show_icons=true&count_private=true&theme=tokyonight" alt="palanikannan's github stats" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Strongside-87&theme=tokyonight" />
 </p>
+
 
 ## My Recent Contributions
 
