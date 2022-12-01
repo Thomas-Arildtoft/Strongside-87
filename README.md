@@ -1,12 +1,14 @@
-## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## About Me 👨🏻‍💻
+I'm Thomas Arildtoft, a student Software developer based in Roskilde, Danmark. Currently I am pursuing a Bachelor degree in Software Technology at Danmark Technical Univerity located in Lyngby & Ballerup. During the course I have been working with different projects such as game developments, operating systems, machine language, machine learning, console app devlopment, android app development.I am also a fullstack developer with good experience in React and ASP.net core. I have a good grip on Database devlopment and database Programming. I have also gained experience in Microsoft Azure Clouding Service and learning other services as well.
 
-- 👀 Hi 👋, I'm Thomas.
-- 💻 I’m a full stack developer.
-- 🎓 I am a software engineer student at Danish Technical University ( DTU )
-- 🌱 I’m currently learning DevOps and C#
-
+## Connect with me
+   
+<p align="center">
+<a href="https://twitter.com/@tarildtoft" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@tarildtoft" /></a><a href="https://www.linkedin.com/in/thomas-arildtoft-341381223/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/thomas-arildtoft-341381223/"  /></a><a href="https://www.instagram.com/thomas.a_dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/thomas.a_dev/" /></a><a href="https://www.youtube.com/channel/ucb--2h87xbqz0att5unsc_g" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/ucb--2h87xbqz0att5unsc_g" /></a><a href="https://github.com/Strongside-87" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="https://github.com/Strongside-87" /></a>
+ 
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Strongside-87&style=flat-square&color=blue" alt=""/></div>
+</p>
 
 ## Tech Stack
 
@@ -23,7 +25,15 @@
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-   
+<img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" /> 
+<img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)" />
+  
+  ## Operating Systems
+<p>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
    
 ## My GitHub Stats 📈
 
@@ -39,11 +49,4 @@
 
 <!--END_SECTION:activity-->
 
----
 
-<p align="center">Connect with me:</p>
-<p align="center">
-<a href="https://twitter.com/@tarildtoft" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@tarildtoft" /></a><a href="https://www.linkedin.com/in/thomas-arildtoft-341381223/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/thomas-arildtoft-341381223/"  /></a><a href="https://www.instagram.com/thomas.a_dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/thomas.a_dev/" /></a><a href="https://www.youtube.com/channel/ucb--2h87xbqz0att5unsc_g" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/ucb--2h87xbqz0att5unsc_g" /></a><a href="https://github.com/Strongside-87" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="https://github.com/Strongside-87" /></a>
- 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Strongside-87&style=flat-square&color=blue" alt=""/></div>
-</p>
