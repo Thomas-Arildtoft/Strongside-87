@@ -1,6 +1,6 @@
 ## Hey there welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Thomas Arildtoft, a student Software developer based in Roskilde, Danmark. Currently I am pursuing a Bachelor degree in Software Technology at Danmark Technical Univerity located in Lyngby & Ballerup. During the course I have been working with different projects such as game developments, operating systems, machine language, machine learning, console app devlopment, android app development.I am also a fullstack developer with good experience in React and ASP.net core. I have a good grip on Database devlopment and database Programming. I have also gained experience in Microsoft Azure Clouding Service and learning other services as well.
+I'm <b>Thomas Arildtoft</b>, a student Software developer based in Roskilde, Danmark. Currently I am pursuing a Bachelor degree in Software Technology at Danmark Technical Univerity located in Lyngby & Ballerup. During the course I have been working with different projects such as game developments, operating systems, machine language, machine learning, console app devlopment, android app development.I am also a fullstack developer with good experience in React and ASP.net core. I have a good grip on Database devlopment and database Programming. I have also gained experience in Microsoft Azure Clouding Service and learning other services as well.
 
 ## Connect with me
    
