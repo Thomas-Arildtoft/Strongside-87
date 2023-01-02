@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/channel/ucb--2h87xbqz0att5unsc_g" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/ucb--2h87xbqz0att5unsc_g" /></a>
 
 
-<table><tr><td valign="top" width="75%">
+<table><tr><td valign="top" width="70%">
 
 ## 👋 Hi, I Am Thomas
 
@@ -14,36 +14,20 @@
 - Main focus in DevOps and fullstack Wev Development.
 - Currently looking for Student work focused within the above areas.
 
-  </td><td valign="top" width="25%">
+  </td><td valign="top" width="30%">
    
 ## 🖥️ Fav Tech Stack
 
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-- ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
+- React(js)
+- MongoDB
+- Node(js)
+- Express(js)
+- Kubernetes
+- Docker
 
    
 </tr></tr></table> 
 
- <table><tr><td valign="top" width="50%">
-
-## <a href="https://www.youtube.com/channel/UCBRxDSTfr2aJVODDh4WG_7g"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>   Recent Videos on YouTube      
- 
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Title](Link)
-<!-- YOUTUBE-VIDEOS-LIST:END --> 
- 
-</td><td valign="top" width="50%">
-
-## <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     
- <!-- DEVTO-BLOG-LIST:START -->
-- [Title](Link)
-<!-- DEVTO-BLOG-LIST:END -->
-
-</td></tr></table>
    
 ## My GitHub Stats 📈
 
