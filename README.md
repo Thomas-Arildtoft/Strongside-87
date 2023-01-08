@@ -9,16 +9,25 @@ I'm a Fullstack Developer 💻, Photographer 📸, and DevOps Engineer!
 I love full stack development and devOps engineering because they allow me to work on every aspect of a project, from the front-end interface to the back-end infrastructure. I enjoy the process of designing and building a complete system, and the satisfaction of seeing it all come together and work seamlessly. Working in devOps also allows me to continuously improve and optimize the system, which is an exciting challenge. Overall, full stack development and devOps engineering provide a great balance of creativity and problem-solving, and I find them to be highly rewarding fields to work in.
 
 
-### 🤝 Connect with me:
-
-<a href="https://twitter.com/@tarildtoft" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@tarildtoft" /></a>
-<a href="https://www.linkedin.com/in/thomas-arildtoft-341381223/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/thomas-arildtoft-341381223/"  /></a>
-<a href="https://www.instagram.com/thomas.a_dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/thomas.a_dev/" /></a>
-<a href="https://www.youtube.com/channel/ucb--2h87xbqz0att5unsc_g" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/ucb--2h87xbqz0att5unsc_g" /></a>
+ <h2 align="center"> 🤝 Connect with me:<br> </h2>
+ <p align="center">
+  <a href="https://twitter.com/@tarildtoft">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+   <a href="https://www.linkedin.com/in/thomas-arildtoft-341381223/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+   <a href="https://www.youtube.com/channel/ucb--2h87xbqz0att5unsc_g">
+    <img src="https://skillicons.dev/icons?i=youtube" />
+  </a>
+   <a href="https://www.instagram.com/thomas.a_dev/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+ <a href="https://www.buymeacoffee.com/rh4mg7jv68x" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</p>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 💬 ask me about anything, i am happy to help;
 
 <h3>
 languages and tools:
@@ -27,14 +36,12 @@ languages and tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,graphql,nodejs,python,mysql,docker,kubernetes,git&perline=6&theme=light)](https://skillicons.dev)
 
 - 💼 any freelance work? do reach, [email](mailto:info@thomas-arildtoft.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 **📊this week i spent my time on:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a ☕ coffee/tea 🍵
-
-<a href="https://www.buymeacoffee.com/rh4mg7jv68x" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
    
 **GitHub Stats 📈**
