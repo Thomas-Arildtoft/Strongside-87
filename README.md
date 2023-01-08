@@ -6,7 +6,7 @@
 I'm a Fullstack Developer 💻, Photographer 📸, and DevOps Engineer!
 </h2> 
 
-I love the entire process of developing projects from both the Front and Back-end perspective, backed up with my understanding of infrastructure and deployment. 
+I love full stack development and devOps engineering because they allow me to work on every aspect of a project, from the front-end interface to the back-end infrastructure. I enjoy the process of designing and building a complete system, and the satisfaction of seeing it all come together and work seamlessly. Working in devOps also allows me to continuously improve and optimize the system, which is an exciting challenge. Overall, full stack development and devOps engineering provide a great balance of creativity and problem-solving, and I find them to be highly rewarding fields to work in.
 
 
 ### 🤝 Connect with me:
