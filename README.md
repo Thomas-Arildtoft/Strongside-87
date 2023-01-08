@@ -20,13 +20,18 @@ I love full stack development and devOps engineering because they allow me to wo
 
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
+<h3>
+languages and tools:
+</h3>
+ 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,graphql,nodejs,python,mysql,docker,kubernetes,git&perline=6)](https://skillicons.dev)
 
 - 💼 any freelance work? do reach, [email](mailto:info@thomas-arildtoft.com) :)
 
+<h3>
+📊this week i spent my time on:
+</h3>
 
-📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
