@@ -42,7 +42,10 @@ languages and tools:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java         11 mins         ██████████████▒░░░░░░░░░░   57.76 %
+XML          8 mins          ██████████▒░░░░░░░░░░░░░░   40.79 %
+Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Dockerfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
