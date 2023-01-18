@@ -76,10 +76,11 @@ When i'm not at the keyboard, i like going to the gym for physical exercise aswe
   <summary><b>📊 Metrics</b></summary>
     <p>
 
-| [![General Stats]
+| [![General Stats](https://raw.githubusercontent.com/Strongside-87/Strongside-87/master/assets/metrics/summary.svg)](https://github.com/Strongside-87/Strongside-87/blob/master/METRICS.md) | [![Stargazer Stats](https://raw.githubusercontent.com/Strongside-87/Strongside-87/master/assets/metrics/stargazers.svg)](https://github.com/Strongside-87/Strongside-87/blob/master/METRICS.md) |
 | - | - |
 
-**[➡️ More Metrics]()**
+
+**[➡️ More Metrics](/METRICS.md)**
 
 </p>
 </details>
