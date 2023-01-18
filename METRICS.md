@@ -21,7 +21,6 @@
 [<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Strongside-87/Strongside-87/master/assets/metrics/gists.svg">][gists]
 
 [<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Strongside-87/Strongside-87/master/assets/metrics/wakatime.svg">][code-stats]
-[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/Strongside-87/Strongside-87/master/assets/metrics/repositories.svg">][repositories]
 
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Strongside-87/Strongside-87/master/assets/metrics/sponsors.svg">][sponsors]
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/Strongside-87/Strongside-87/master/assets/metrics/people.svg">][followers]
