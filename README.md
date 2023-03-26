@@ -18,20 +18,13 @@
 
 
   </kbd>
-</p>
 
-<!-- Outer collapsible -->  
-<details>
-   <summary><b>↕️ Expand for more!</b></summary>
- 
+
+<table>
+  <tr>
+    <td align="left">
    
-<!-- About Section -->
-<details>
-  <summary><b>👤 About</b></summary>
-    <p>
-      <img align="right" width="250" src="" alt="Thomas Arildtoft" />
-      
-<blockquote>
+
  
 
 I'm a Fullstack Developer 💻, Photographer 📸, and DevOps Engineer based in Roskilde, Denmark!
@@ -41,18 +34,9 @@ I love full stack development and devOps engineering because they allow me to wo
 I have a small homelab, which I'm using to learn more about system administration, and host my own services.
  
 When i'm not at the keyboard, i like going to the gym for physical exercise aswell as Brazilian Jui Jitsu ( BJJ ).
-
-</blockquote>
-    
-----
   
-  </p>
-</details>
 
-<!-- Tech Stack -->  
-<details>
-  <summary><b>🛠️ Tech Stack</b></summary>
-    <p>
+ <td align="right">
 
 | **Category** | **Technologies** |
 | - | - |
@@ -64,17 +48,10 @@ When i'm not at the keyboard, i like going to the gym for physical exercise aswe
 **Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![MacOS](https://img.shields.io/badge/mac%20os-2357A143?style=flat&logo=apple&logoColor=white)](https://www.apple.com/dk/macos/ventura/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
 **Editors** | [![Webstorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white)](https://www.jetbrains.com/idea/) [![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-B22222.svg?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
       
-     
-----      
-
-  </p>
-</details>
+  </tr>
+</table>
   
-
-<!-- Metrics -->
-<details>
-  <summary><b>📊 Metrics</b></summary>
-    <p>
+-------
 
 | [![General Stats](https://raw.githubusercontent.com/Strongside-87/Strongside-87/master/assets/metrics/summary.svg)](https://github.com/Strongside-87/Strongside-87/blob/master/METRICS.md) | [![Stargazer Stats](https://raw.githubusercontent.com/Strongside-87/Strongside-87/master/assets/metrics/stargazers.svg)](https://github.com/Strongside-87/Strongside-87/blob/master/METRICS.md) |
 | - | - |
@@ -82,7 +59,6 @@ When i'm not at the keyboard, i like going to the gym for physical exercise aswe
 
 **[➡️ More Metrics](/METRICS.md)**
 
-</p>
-</details>
+
 
 
