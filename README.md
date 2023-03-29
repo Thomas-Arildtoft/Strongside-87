@@ -57,8 +57,6 @@ When i'm not at the keyboard, i like going to the gym for physical exercise aswe
 | - | - |
 
 
-**[➡️ More Metrics](/METRICS.md)**
-
 
 
 
