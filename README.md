@@ -3,7 +3,7 @@
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="mailto:info@thomas-arildtoft.com" title="Email Address"><code>info@thomas-arildtoft.com</code></a> │ <a href="thomas-arildtoft.com" title="Personal Website"><code>thomas-arildtoft.com</code></a>
+<a href="mailto:info@thomas-arildtoft.com" title="Email Address"><code>info@thomas-arildtoft.com</code></a> │ <a href="www.thomas-arildtoft.com" title="Personal Website"><code>thomas-arildtoft.com</code></a>
 </p>
 
 <!-- Socials -->
@@ -27,7 +27,7 @@
 
  
 
-I'm a Fullstack Developer 💻, Photographer 📸, and DevOps Engineer based in Roskilde, Denmark!
+I'm a Junior DevOps Engineer, currently working at EPOS Denmark 💻, In my sparetime i create content on multiple different platforms for educational purposes 📸, my base of operations is in Roskilde, Denmark!
 
 I love full stack development and devOps engineering because they allow me to work on every aspect of a project, from the front-end interface to the back-end infrastructure. I enjoy the process of designing and building a complete system, and the satisfaction of seeing it all come together and work seamlessly. Working in devOps also allows me to continuously improve and optimize the system, which is an exciting challenge. Overall, full stack development and devOps engineering provide a great balance of creativity and problem-solving, and I find them to be highly rewarding fields to work in.
  
