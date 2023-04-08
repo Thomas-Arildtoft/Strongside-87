@@ -24,7 +24,7 @@
   <tr>
     <td align="left">
 I am currently employed as a Junior DevOps Engineer at EPOS Denmark 💻 and in my spare time, I engage in content creation across various platforms for educational purposes 📸. My physical location is situated in Roskilde, Denmark.
-
+       
 My passion lies in full stack development and DevOps engineering as these fields offer me the opportunity to engage with every aspect of a project, from the front-end interface to the back-end infrastructure. I find the process of designing and building a complete system highly satisfying, especially when I see it come together and function seamlessly. Engaging in DevOps engineering also allows me to continuously enhance and optimize the system, which presents an exciting challenge. Overall, these fields offer a great balance of creativity and problem-solving and provide highly rewarding career opportunities.
 
 I am constantly striving to improve my knowledge of system administration and currently maintain a small homelab to further my understanding of this field while hosting my own services.
