@@ -23,19 +23,14 @@
 <table>
   <tr>
     <td align="left">
-   
+I am currently employed as a Junior DevOps Engineer at EPOS Denmark 💻 and in my spare time, I engage in content creation across various platforms for educational purposes 📸. My physical location is situated in Roskilde, Denmark.
 
- 
+My passion lies in full stack development and DevOps engineering as these fields offer me the opportunity to engage with every aspect of a project, from the front-end interface to the back-end infrastructure. I find the process of designing and building a complete system highly satisfying, especially when I see it come together and function seamlessly. Engaging in DevOps engineering also allows me to continuously enhance and optimize the system, which presents an exciting challenge. Overall, these fields offer a great balance of creativity and problem-solving and provide highly rewarding career opportunities.
 
-I'm a Junior DevOps Engineer, currently working at EPOS Denmark 💻, In my sparetime i create content on multiple different platforms for educational purposes 📸, my base of operations is in Roskilde, Denmark!
+I am constantly striving to improve my knowledge of system administration and currently maintain a small homelab to further my understanding of this field while hosting my own services.
 
-I love full stack development and devOps engineering because they allow me to work on every aspect of a project, from the front-end interface to the back-end infrastructure. I enjoy the process of designing and building a complete system, and the satisfaction of seeing it all come together and work seamlessly. Working in devOps also allows me to continuously improve and optimize the system, which is an exciting challenge. Overall, full stack development and devOps engineering provide a great balance of creativity and problem-solving, and I find them to be highly rewarding fields to work in.
- 
-I have a small homelab, which I'm using to learn more about system administration, and host my own services.
- 
-When i'm not at the keyboard, i like going to the gym for physical exercise aswell as Brazilian Jui Jitsu ( BJJ ).
+Outside of my professional life, I enjoy maintaining my physical fitness and participate in Brazilian Jiu-Jitsu (BJJ) as well as visiting the gym for regular exercise.
   
-
  <td align="right">
 
 | **Category** | **Technologies** |
