@@ -46,21 +46,70 @@ When I'm not engrossed in code or cloud configurations, I'm honing my physique a
 
 💡 **Engagements**: 
 Apart from my day job, I dabble in content creation across platforms. It's my little way of giving back to the community and educating budding tech enthusiasts.
- <td align="right">
 
-| **Category** | **Technologies** |
-| ------------ | --------------- |
-| **Frontend** | [![Svelte](https://img.shields.io/static/v1?label=&message=Svelte&color=FF3E00&logo=svelte&logoColor=FFFFFF)](https://svelte.dev/) [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) [![Html](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://html.com) [![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=flat&logo=CSS3&logoColor=white)](https://css.com) |
-| **Core** | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/) [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/download/dotnet-framework) [![.C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com) |
-| **Cloud** | [![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&logo=microsoftazure&logoColor=FFFFFF)](https://azure.microsoft.com/) [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/) [![Github Actions](https://img.shields.io/badge/GitHub_Actions-343434?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions) |
-| **DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-5C2D91.svg?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=flat&logo=jenkins&logoColor=white)](https://jenkins.io) [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)](https://bitbucket.org) |
-| **Testing** | [![Cypress](https://img.shields.io/static/v1?label=&message=Cypress&color=17202C&logo=cypress&logoColor=FFFFFF)](https://www.cypress.io/) [![Jest](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&logo=jest&logoColor=FFFFFF)](https://jestjs.io/) [![Cucumber](https://img.shields.io/badge/Cucumber-21d96c.svg?style=flat&logo=cucumber&logoColor=white)](https://cucumber.io) |
-| **Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![MacOS](https://img.shields.io/badge/mac%20os-2357A143?style=flat&logo=apple&logoColor=white)](https://www.apple.com/dk/macos/ventura/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown) [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira-software&logoColor=white)](https://www.atlassian.com/software/jira) |
-| **Editors** | [![Webstorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white)](https://www.jetbrains.com/idea/) [![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-B22222.svg?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/) [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) |
-
-      
+<table style="width: 100%; margin-top: 20px;">
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <a href="https://svelte.dev/"><img src="https://img.shields.io/static/v1?label=&message=Svelte&color=FF3E00&logo=svelte&logoColor=FFFFFF"></a>
+      <a href="https://reactjs.org/"><img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF"></a>
+      <a href="https://html.com"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"></a>
+      <a href="https://css.com"><img src="https://img.shields.io/badge/CSS-F7DF1E?style=flat&logo=CSS3&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Core</strong></td>
+    <td>
+      <a href="https://www.javascript.com/"><img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF"></a>
+      <a href="https://www.python.org/"><img src="https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF"></a>
+      <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"></a>
+      <a href="https://nodejs.org/"><img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF"></a>
+      <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework"><img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"></a>
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"></a>
+      <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud</strong></td>
+    <td>
+      <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&logo=microsoftazure&logoColor=FFFFFF"></a>
+      <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"></a>
+      <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-343434?style=flat&logo=github-actions&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps</strong></td>
+    <td>
+      <a href="https://docker.com/"><img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF"></a>
+      <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-5C2D91.svg?style=flat&logo=kubernetes&logoColor=white"></a>
+      <a href="https://jenkins.io"><img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=flat&logo=jenkins&logoColor=white"></a>
+      <a href="https://bitbucket.org"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Testing</strong></td>
+    <td>
+      <a href="https://www.cypress.io/"><img src="https://img.shields.io/static/v1?label=&message=Cypress&color=17202C&logo=cypress&logoColor=FFFFFF"></a>
+      <a href="https://jestjs.io/"><img src="https://img.shields.io/static/v1?label=&message=Jest&color=C21325&logo=jest&logoColor=FFFFFF"></a>
+      <a href="https://cucumber.io"><img src="https://img.shields.io/badge/Cucumber-21d96c.svg?style=flat&logo=cucumber&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Misc</strong></td>
+    <td>
+      <a href="https://www.linux.org/"><img src="https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF"></a>
+      <a href="https://www.apple.com/dk/macos/ventura/"><img src="https://img.shields.io/badge/mac%20os-2357A143?style=flat&logo=apple&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Editors</strong></td>
+    <td>
+      <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white"></a>
+      <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"></a>
+    </td>
   </tr>
 </table>
+
   
 -------
 
