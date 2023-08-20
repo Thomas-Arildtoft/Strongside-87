@@ -23,25 +23,40 @@
 <table>
   <tr>
     <td align="left">
-I am currently employed as a Junior DevOps Engineer at EPOS Denmark 💻 and in my spare time, I engage in content creation across various platforms for educational purposes 📸. My physical location is situated in Roskilde, Denmark.
-       
-My passion lies in full stack development and DevOps engineering as these fields offer me the opportunity to engage with every aspect of a project, from the front-end interface to the back-end infrastructure. I find the process of designing and building a complete system highly satisfying, especially when I see it come together and function seamlessly. Engaging in DevOps engineering also allows me to continuously enhance and optimize the system, which presents an exciting challenge. Overall, these fields offer a great balance of creativity and problem-solving and provide highly rewarding career opportunities.
+🔧 **Software / DevOps Engineer** at **EPOS Denmark**
 
-I am constantly striving to improve my knowledge of system administration and currently maintain a small homelab to further my understanding of this field while hosting my own services.
+📍 **Roskilde, Denmark**
 
-Outside of my professional life, I enjoy maintaining my physical fitness and participate in Brazilian Jiu-Jitsu (BJJ) as well as visiting the gym for regular exercise.
-  
+---
+
+🛠 **About Me**:
+Currently navigating the challenges of DevOps as a Junior Engineer at EPOS, I have a penchant for both full-stack development and the intricacies of DevOps engineering. These realms provide a wholesome experience — allowing me to immerse in everything from user-facing designs to the nitty-gritty of back-end infrastructure.
+
+What excites me? Witnessing a system that I've architected come alive, run flawlessly, and then diving back in to refine it even further. It's this mix of creativity and methodical problem-solving that fuels my passion.
+
+To sharpen my skill set, I operate a homelab, getting hands-on with system administration and hosting my own services, ensuring I stay ahead in this ever-evolving field.
+
+---
+
+📸 **Beyond the Screen**:
+When I'm not engrossed in code or cloud configurations, I'm honing my physique and discipline. I'm an avid Brazilian Jiu-Jitsu practitioner and a regular at the local gym. Fitness isn't just a hobby; it's a lifestyle.
+
+---
+
+💡 **Engagements**: 
+Apart from my day job, I dabble in content creation across platforms. It's my little way of giving back to the community and educating budding tech enthusiasts.
  <td align="right">
 
 | **Category** | **Technologies** |
-| - | - |
-**Frontend** |[![Svelte](https://img.shields.io/static/v1?label=&message=Svelte&color=FF3E00&logo=svelte&logoColor=FFFFFF)](https://svelte.dev/) [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) [![Html](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://html.com) [![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=flat&logo=CSS3&logoColor=white)](https://css.com)
-**Core** | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/)<br> [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/) [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/download/dotnet-framework) [![.C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
-**Cloud** | [![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&logo=microsoftazure&logoColor=FFFFFF)](https://azure.microsoft.com/) [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/) [![Github Actions](https://img.shields.io/badge/GitHub_Actions-343434?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-**DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-5C2D91.svg?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-**Testing** |[![Cypress](https://img.shields.io/static/v1?label=&message=Cypress&color=17202C&logo=cypress&logoColor=FFFFFF)](https://www.cypress.io/) [![Jest](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&logo=jest&logoColor=FFFFFF)](https://jestjs.io/) [![Cucumber](https://img.shields.io/badge/Cucumber-21d96c.svg?style=flat&logo=cucumber&logoColor=white)](https://cucumber.io)
-**Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![MacOS](https://img.shields.io/badge/mac%20os-2357A143?style=flat&logo=apple&logoColor=white)](https://www.apple.com/dk/macos/ventura/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
-**Editors** | [![Webstorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white)](https://www.jetbrains.com/idea/) [![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-B22222.svg?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+| ------------ | --------------- |
+| **Frontend** | [![Svelte](https://img.shields.io/static/v1?label=&message=Svelte&color=FF3E00&logo=svelte&logoColor=FFFFFF)](https://svelte.dev/) [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) [![Html](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://html.com) [![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=flat&logo=CSS3&logoColor=white)](https://css.com) |
+| **Core** | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/) [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/download/dotnet-framework) [![.C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com) |
+| **Cloud** | [![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&logo=microsoftazure&logoColor=FFFFFF)](https://azure.microsoft.com/) [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/) [![Github Actions](https://img.shields.io/badge/GitHub_Actions-343434?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions) |
+| **DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![Kubernetes](https://img.shields.io/badge/Kubernetes-5C2D91.svg?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=flat&logo=jenkins&logoColor=white)](https://jenkins.io) [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)](https://bitbucket.org) |
+| **Testing** | [![Cypress](https://img.shields.io/static/v1?label=&message=Cypress&color=17202C&logo=cypress&logoColor=FFFFFF)](https://www.cypress.io/) [![Jest](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&logo=jest&logoColor=FFFFFF)](https://jestjs.io/) [![Cucumber](https://img.shields.io/badge/Cucumber-21d96c.svg?style=flat&logo=cucumber&logoColor=white)](https://cucumber.io) |
+| **Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![MacOS](https://img.shields.io/badge/mac%20os-2357A143?style=flat&logo=apple&logoColor=white)](https://www.apple.com/dk/macos/ventura/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown) [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira-software&logoColor=white)](https://www.atlassian.com/software/jira) |
+| **Editors** | [![Webstorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white)](https://www.jetbrains.com/idea/) [![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-B22222.svg?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/) [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) |
+
       
   </tr>
 </table>
