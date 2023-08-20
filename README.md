@@ -47,6 +47,8 @@ When I'm not engrossed in code or cloud configurations, I'm honing my physique a
 💡 **Engagements**: 
 Apart from my day job, I dabble in content creation across platforms. It's my little way of giving back to the community and educating budding tech enthusiasts.
 
+---
+
 <table style="width: 100%; margin-top: 20px;">
   <tr>
     <td><strong>Frontend</strong></td>
